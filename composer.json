@@ -1,0 +1,18 @@
+{
+    "name": "johnkrovitch/test-pack",
+    "description": "Mutualize tests libraries",
+    "type": "symfony-pack",
+    "require": {
+        "phpunit/phpunit": "^8.5",
+        "phpstan/phpstan": "^0.12.25",
+        "sensiolabs/security-checker": "^6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "johnkrovitch",
+            "email": "arnaudfrezet@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
