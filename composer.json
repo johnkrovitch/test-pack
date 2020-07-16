@@ -5,7 +5,9 @@
     "require": {
         "phpunit/phpunit": "^8.5",
         "phpstan/phpstan": "^0.12.25",
-        "sensiolabs/security-checker": "^6.0"
+        "sensiolabs/security-checker": "^6.0",
+        "symfony/test-pack": "^1.0",
+        "php-parallel-lint/php-var-dump-check": "~0.4"
     },
     "license": "MIT",
     "authors": [
