@@ -1,6 +1,5 @@
 # test-pack
-Mutualize tests libraries
-
+Mutualise tests libraries
 
 ## Installation
 ```bash
